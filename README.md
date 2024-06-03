@@ -1,5 +1,5 @@
 # iSchool
-This is just a practice project to brush up my skills and increase my speed and accuracy. The website isfor a school named School.
+This is just a practice project which I did to brush up on my front-end skills and increase my speed and accuracy. The website is for a school named iSchool.
 
 
 You may visit this project here
